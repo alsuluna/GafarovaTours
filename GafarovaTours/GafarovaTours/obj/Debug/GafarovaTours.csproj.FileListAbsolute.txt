@@ -14,3 +14,7 @@ C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Deb
 C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\GafarovaTours.csproj.CoreCompileInputs.cache
 C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\GafarovaTours.exe
 C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\GafarovaTours.pdb
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\AddPageEdit.g.cs
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\HotelPages.g.cs
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\AddPageEdit.baml
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\HotelPages.baml

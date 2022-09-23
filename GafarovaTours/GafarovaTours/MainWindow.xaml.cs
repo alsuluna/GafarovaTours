@@ -23,6 +23,32 @@ namespace GafarovaTours
         public MainWindow()
         {
             InitializeComponent();
+
+            MainFrame.Navigate(new HotelPages());
+
+            Manager.MainFrame = MainFrame;
+        }
+
+        private void MainFrame_Navigated(object sender, NavigationEventArgs e)
+        {
+
+        }
+
+        private void btnBack_Click(object sender, RoutedEventArgs e)
+        {
+            Manager.MainFrame.GoBack();
+        }
+
+        private void MainFrame_ContentRendered(object sender, EventArgs e)
+        {
+            if (MainFrame.CanGoBack)
+            {
+                btnBack.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                btnBack.Visibility = Visibility.Hidden;
+            }
         }
     }
 }
