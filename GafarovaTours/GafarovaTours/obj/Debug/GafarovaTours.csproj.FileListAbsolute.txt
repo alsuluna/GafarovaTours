@@ -1,0 +1,16 @@
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\bin\Debug\GafarovaTours.exe.config
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\bin\Debug\GafarovaTours.exe
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\bin\Debug\GafarovaTours.pdb
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\GafarovaTours.csproj.AssemblyReference.cache
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\GafarovaTours.csproj.SuggestedBindingRedirects.cache
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\MainWindow.g.cs
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\App.g.cs
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\GafarovaTours_MarkupCompile.cache
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\GafarovaTours_MarkupCompile.lref
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\MainWindow.baml
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\GafarovaTours.g.resources
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\GafarovaTours.Properties.Resources.resources
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\GafarovaTours.csproj.GenerateResource.cache
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\GafarovaTours.csproj.CoreCompileInputs.cache
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\GafarovaTours.exe
+C:\Users\Алсу\source\repos\GafarovaTours\GafarovaTours\GafarovaTours\obj\Debug\GafarovaTours.pdb
